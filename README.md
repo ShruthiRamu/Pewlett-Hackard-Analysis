@@ -23,3 +23,5 @@
 ## inner join departments as d
 ## on(de.dept_no = d.dept_no)
 ## where d.dept_name in ('Sales', 'Development');
+
+## 4. We can analyse this companies data set based on the department and position  (title) and have a hiring plan for each department and position.
